@@ -1,6 +1,6 @@
-# Solana Pinocchio Starter
+# pinocchio-vault
 
-## Steps to start (Please use wsl or linux for smooth devex)
+
 
 ### Clone the repo
 
@@ -30,4 +30,3 @@ cargo test --features test-default
 ```bash
 cargo bench --features bench-default
 ```
-# pinocchio-vault
